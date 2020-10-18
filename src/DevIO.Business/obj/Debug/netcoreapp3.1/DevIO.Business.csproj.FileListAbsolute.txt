@@ -1,0 +1,9 @@
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb

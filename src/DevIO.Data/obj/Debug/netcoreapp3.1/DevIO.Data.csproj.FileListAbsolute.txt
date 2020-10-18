@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.genruntimeconfig.cache
+C:\Users\Lucas\Documents\aspnet-mvc-complete\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
