@@ -14467,6 +14467,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.App\\Views\\Fornecedores\\_Endereco.cshtml",
+      "TargetPath": "Views\\Fornecedores\\_Endereco.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.App\\Views\\Produtos\\Details.cshtml",
       "TargetPath": "Views\\Produtos\\Details.cshtml",
       "FileKind": "mvc"

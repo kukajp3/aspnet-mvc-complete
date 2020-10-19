@@ -25,6 +25,7 @@
       "DevIO.App/1.0.0": {
         "dependencies": {
           "DevIO.Data": "1.0.0",
+          "Font.Awesome": "5.15.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.8",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.8",
           "Microsoft.AspNetCore.Identity.UI": "3.1.8",
@@ -333,6 +334,7 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "Font.Awesome/5.15.0": {},
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.8": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll": {
@@ -4166,6 +4168,13 @@
       "sha512": "sha512-dQyGCAYcHbGuimVvCMu4Ea2S1oYOlgO9XfVdClmY5wgygJMZoS57emPzH0qNfknmtzMm4QbDO9i237W5IDjU1A==",
       "path": "automapper.extensions.microsoft.dependencyinjection/8.1.0",
       "hashPath": "automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512"
+    },
+    "Font.Awesome/5.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P15g7TLm7eyD0sMwNi6WWwaNgePNKMUmFZKQcpyoMk67xTaFVI+XRi3bzGHgpAYX9o/yQCBSZahWiaSMG0urqg==",
+      "path": "font.awesome/5.15.0",
+      "hashPath": "font.awesome.5.15.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.8": {
       "type": "package",

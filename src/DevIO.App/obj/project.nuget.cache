@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MODsu58TgS0ppYfkWFjKMsxBYR/AL1/BMs3kqBWsEABBS55eOoVwf+r+1226zovFgmqVU08iBdILaY1LcUcP4Q==",
+  "dgSpecHash": "fqUO7hClikJv2WCUBc4S4xBHsE6oZdXGNJ5N0olih86/LIJ7+vy3b3kmVDRi/f6EGIPJqOv6cq7w6uwypRSE9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.App\\DevIO.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\font.awesome\\5.15.0\\font.awesome.5.15.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\3.1.8\\microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.8.nupkg.sha512",
