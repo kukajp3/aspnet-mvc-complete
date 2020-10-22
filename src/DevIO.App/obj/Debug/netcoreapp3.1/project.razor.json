@@ -10256,6 +10256,32 @@
         }
       },
       {
+        "HashCode": -1472224980,
+        "Kind": "ITagHelper",
+        "Name": "DevIO.App.Extensions.EmailTagHelper",
+        "AssemblyName": "DevIO.App",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "email"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "email-domain",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "EmailDomain"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "DevIO.App.Extensions.EmailTagHelper"
+        }
+      },
+      {
         "HashCode": 1226202186,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
@@ -14397,6 +14423,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.App\\Views\\Fornecedores\\_AtualizarEndereco.cshtml",
+      "TargetPath": "Views\\Fornecedores\\_AtualizarEndereco.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.App\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -14447,6 +14478,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.App\\Views\\Produtos\\_ListaProdutos.cshtml",
+      "TargetPath": "Views\\Produtos\\_ListaProdutos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.App\\Views\\Produtos\\Delete.cshtml",
       "TargetPath": "Views\\Produtos\\Delete.cshtml",
       "FileKind": "mvc"
@@ -14469,6 +14505,11 @@
     {
       "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.App\\Views\\Fornecedores\\_Endereco.cshtml",
       "TargetPath": "Views\\Fornecedores\\_Endereco.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.App\\Views\\Fornecedores\\_DetalhesEndereco.cshtml",
+      "TargetPath": "Views\\Fornecedores\\_DetalhesEndereco.cshtml",
       "FileKind": "mvc"
     },
     {

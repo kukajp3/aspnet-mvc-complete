@@ -334,6 +334,17 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "FluentValidation/9.2.2": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.2.2.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        }
+      },
       "Font.Awesome/5.15.0": {},
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.8": {
         "runtime": {
@@ -2552,6 +2563,7 @@
       },
       "DevIO.Business/1.0.0": {
         "dependencies": {
+          "FluentValidation": "9.2.2",
           "System.ComponentModel.Annotations": "4.7.0"
         },
         "runtime": {
@@ -4168,6 +4180,13 @@
       "sha512": "sha512-dQyGCAYcHbGuimVvCMu4Ea2S1oYOlgO9XfVdClmY5wgygJMZoS57emPzH0qNfknmtzMm4QbDO9i237W5IDjU1A==",
       "path": "automapper.extensions.microsoft.dependencyinjection/8.1.0",
       "hashPath": "automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512"
+    },
+    "FluentValidation/9.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y1TQrSa82i/WWPpXriEkL7uyUyECw3Uvtq66dZ8VC3pwFa9VqnZmeZaJJpz8deKhJQNDgqwU3BSptKTnyjqzuA==",
+      "path": "fluentvalidation/9.2.2",
+      "hashPath": "fluentvalidation.9.2.2.nupkg.sha512"
     },
     "Font.Awesome/5.15.0": {
       "type": "package",

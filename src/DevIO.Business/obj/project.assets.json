@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "FluentValidation/9.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        }
+      },
       "System.ComponentModel.Annotations/4.7.0": {
         "type": "package",
         "compile": {
@@ -14,6 +23,21 @@
     }
   },
   "libraries": {
+    "FluentValidation/9.2.2": {
+      "sha512": "Y1TQrSa82i/WWPpXriEkL7uyUyECw3Uvtq66dZ8VC3pwFa9VqnZmeZaJJpz8deKhJQNDgqwU3BSptKTnyjqzuA==",
+      "type": "package",
+      "path": "fluentvalidation/9.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.9.2.2.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net461/FluentValidation.dll",
+        "lib/net461/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml"
+      ]
+    },
     "System.ComponentModel.Annotations/4.7.0": {
       "sha512": "0YFqjhp/mYkDGpU0Ye1GjE53HMp9UVfGN7seGpAMttAC0C40v5gw598jCgpbBLMmCo0E5YRLBv5Z2doypO49ZQ==",
       "type": "package",
@@ -106,6 +130,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "FluentValidation >= 9.2.2",
       "System.ComponentModel.Annotations >= 4.7.0"
     ]
   },
@@ -150,6 +175,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[9.2.2, )"
+          },
           "System.ComponentModel.Annotations": {
             "target": "Package",
             "version": "[4.7.0, )"

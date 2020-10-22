@@ -137,6 +137,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.2.2, )"
+            },
             "System.ComponentModel.Annotations": {
               "target": "Package",
               "version": "[4.7.0, )"

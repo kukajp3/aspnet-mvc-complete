@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PzIK9+DWMmHGOwSMM52RWfpzYNNG8zOGgz0FLpjwp9nPcsuGhw3Wj6bnOanjtP4CV0pREQVYChIjwaur0c2A0w==",
+  "dgSpecHash": "WBnRiRuPQnfejwf6iCHvtvCyKZ18NshUQZvGSV9C36YY/MS8ad1WBlLq+mAaim4hUOpv4FYRLeS1oV+uHb+cvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
