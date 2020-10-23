@@ -12448,6 +12448,23 @@
         }
       },
       {
+        "HashCode": -2105141366,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__SummaryViewComponentTagHelper",
+        "AssemblyName": "DevIO.App",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:summary"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__SummaryViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "Summary"
+        }
+      },
+      {
         "HashCode": 1912741130,
         "Kind": "Components.Bind",
         "Name": "Bind",
@@ -14425,6 +14442,11 @@
     {
       "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.App\\Views\\Fornecedores\\_AtualizarEndereco.cshtml",
       "TargetPath": "Views\\Fornecedores\\_AtualizarEndereco.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Lucas\\Documents\\aspnet-mvc-complete\\src\\DevIO.App\\Views\\Shared\\Components\\Summary\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Summary\\Default.cshtml",
       "FileKind": "mvc"
     },
     {
